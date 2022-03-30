@@ -2588,7 +2588,7 @@ input:required {
           max-height: 120px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .our-sponsor-area .single-sponsor a img {
-          max-height: 90px; } }
+          max-height: 90px; } } 
       @media only screen and (max-width: 767px) {
         .our-sponsor-area .single-sponsor a img {
           max-height: 50px; } }
