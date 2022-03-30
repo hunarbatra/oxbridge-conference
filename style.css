@@ -2547,6 +2547,7 @@ input:required {
 .our-sponsor-area {
   position: relative;
   z-index: 1;
+  justify-content: center;
   width: 100%; }
   .our-sponsor-area .single-sponsor {
     border: 1px solid #444675;
@@ -2580,17 +2581,17 @@ input:required {
       -webkit-transition-duration: 300ms;
       -o-transition-duration: 300ms;
       transition-duration: 300ms;
-      max-height: 110px;
-      opacity: 0.5; }
+      max-height: 150px;
+      opacity: 1; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .our-sponsor-area .single-sponsor a img {
-          max-height: 90px; } }
+          max-height: 120px; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .our-sponsor-area .single-sponsor a img {
-          max-height: 50px; } }
+          max-height: 90px; } }
       @media only screen and (max-width: 767px) {
         .our-sponsor-area .single-sponsor a img {
-          max-height: 30px; } }
+          max-height: 50px; } }
     .our-sponsor-area .single-sponsor:hover a img, .our-sponsor-area .single-sponsor:focus a img {
       opacity: 1; }
 
