@@ -1383,6 +1383,20 @@ input:required {
           padding-left: 15px;
           padding-right: 15px; } }
 
+.speaker-container {
+  display: flex;
+}
+
+text {
+  font-family: "Poppins", sans-serif;
+  color: #111343;
+  line-height: 1.25;
+  font-weight: 600;
+  width: 70%;
+  margin-left: 5vh;
+  text-align: justify;
+}
+
 .single-speaker-area {
   position: relative;
   z-index: 1;
