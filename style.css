@@ -1383,9 +1383,11 @@ input:required {
           padding-left: 15px;
           padding-right: 15px; } }
 
+          
 .speaker-container {
   display: flex;
 }
+
 
 text {
   font-family: "Poppins", sans-serif;
